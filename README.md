@@ -142,7 +142,7 @@
 
 <details><summary>Deploy To Render</summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/akashdq/DqFileDonor/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -150,7 +150,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/akashdq/DqFileDonor
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
